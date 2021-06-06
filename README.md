@@ -5,4 +5,4 @@ Initial Goal: Establish pipeline
 
 End Goal: Higher ranking
 
-Optional Goal: Avoid using sklearn
+Optional Goal: Avoid using sklearn for feature engineering
