@@ -1,2 +1,2 @@
 # ML Competition Vaccine Prediction
-Vaccine Prob Pred
+Description: https://www.drivendata.org/competitions/66/flu-shot-learning/
