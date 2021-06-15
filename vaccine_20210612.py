@@ -73,8 +73,17 @@ class vaccine_classifier:
         '''
         A QC runs prior everything to make sure all parameters are defined as expected
         '''
-        
-        
+        assert isinstance(self.root, str)
+        assert isinstance(self.file_name, str)
+        assert isinstance(self.submit, bool)
+        assert isinstance(self.top_k, int)
+        assert isinstance(self.show_n, int)
+        assert isinstance(self.repeat, int)
+        assert isinstance(self.nfold, int)
+        assert isinstance(self.concervative, bool)
+        assert isinstance(self.drop_corr, bool)
+        assert isinstance(self.run_from_beginning, bool)
+        assert isinstance(self.debug, bool)
         
 
     def checkpoint(self):
