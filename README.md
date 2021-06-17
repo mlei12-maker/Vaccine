@@ -1,4 +1,4 @@
-# ML Project - Vaccine Prediction
+# ML Project - Establish a Pipeline (Vaccine Prediction)
 Data and Test Case Description: https://www.drivendata.org/competitions/66/flu-shot-learning/
 
 Initial Goal: Establish a data pipeline that can be customized and extended for other problem
